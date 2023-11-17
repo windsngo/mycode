@@ -1,3 +1,6 @@
+#Requirement
+# pydub pytube
+
 import os
 from pydub import AudioSegment
 from pytube import YouTube
