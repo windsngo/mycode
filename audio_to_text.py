@@ -1,3 +1,4 @@
+# pip install pydub SpeechRecognition
 from pydub import AudioSegment
 import os
 from pydub.silence import split_on_silence
